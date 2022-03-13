@@ -1,5 +1,6 @@
-.App {
-  text-align: center;
+.app {
+  background-color: black;
+  height: 100vh;  /*to apply bgcolor without scrolling */
 }
 
 .App-logo {

@@ -1,5 +1,5 @@
 .banner{
-    height: 448px;
+    height: 625px;
     position: relative;
     object-fit: contain;
     color:#fff;
@@ -7,7 +7,7 @@
 
 .banner_contents{
     margin-left:30px;
-    padding-top: 140px;
+    padding-top: 310px;
 }
 
 .banner_title{
